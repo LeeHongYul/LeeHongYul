@@ -1,4 +1,4 @@
-Lee Hong Ryul
+Lee Hong Yul
 
 Hankuk University of Foreign Studies
 
