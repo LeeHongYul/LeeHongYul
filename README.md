@@ -1,8 +1,11 @@
 # ✋ Lee Hong Yul 
 
-Hankuk University of Foreign Studies
 
-
-<img align="Swift" src ="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" /> <img align="Flutter" src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/LeeHongYul"
+    width="600"
+    height="120"
+  />
+</a>
+  
